@@ -1,0 +1,4 @@
+we are in master branch
+file-created-before-checkout-to-feature1
+this file will be stashed..
+when coming back to master branch, we will stash pop it
