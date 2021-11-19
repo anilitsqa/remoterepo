@@ -1,5 +1,0 @@
-file1 added
-text added on github and committed
-
-
-changed in this file to see stash
